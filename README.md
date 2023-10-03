@@ -36,19 +36,24 @@ Since the research work is unpublished, the detailed methodology cannot be revea
 ### Results and Discussions
 After implementing the python code for calculating the adjusted values of the beams of the DVL, the points were visualised using the Rviz which is a 3d visualization tool for ROS applications. It provides a view of your robot model, capture sensor information from robot sensors, and replay captured data. It can display data from camera, lasers, from 3D and 2D devices including pictures and point clouds. <br>
 For visualising the results, the Rexrov was teleoperated over the sand dunes of the seabed and visualised using Rviz. The results are shown below:
-![](https://github.com/AkshetPatel/Plotting-Bathymetric-Map-using-ranges-from-DVL-Using-ROS-MATLAB/blob/main/img/Results.jpeg) <br>
+![](img/Results.jpeg) <br>
+<!-- ![](https://github.com/AkshetPatel/Plotting-Bathymetric-Map-using-ranges-from-DVL-Using-ROS-MATLAB/blob/main/img/Results.jpeg) <br> -->
 Result of the simulation on Rviz <br>
 
-![](https://github.com/AkshetPatel/Plotting-Bathymetric-Map-using-ranges-from-DVL-Using-ROS-MATLAB/blob/main/img/3D%20Coordinates.jpg) <br>
+![](img/Interpolated%20Mesh.jpg) <br>
+<!-- ![](https://github.com/AkshetPatel/Plotting-Bathymetric-Map-using-ranges-from-DVL-Using-ROS-MATLAB/blob/main/img/3D%20Coordinates.jpg) <br> -->
 3D Plot of the Bathy Lines <br>
 
-![](https://github.com/AkshetPatel/Plotting-Bathymetric-Map-using-ranges-from-DVL-Using-ROS-MATLAB/blob/main/img/NON%20Interpolated%20Mesh.jpg) <br>
+![](img/NON%20Interpolated%20Mesh.jpg) <br>
+<!-- ![](https://github.com/AkshetPatel/Plotting-Bathymetric-Map-using-ranges-from-DVL-Using-ROS-MATLAB/blob/main/img/NON%20Interpolated%20Mesh.jpg) <br> -->
 Mesh Plot of Original Coordinates <br>
 
-![](https://github.com/AkshetPatel/Plotting-Bathymetric-Map-using-ranges-from-DVL-Using-ROS-MATLAB/blob/main/img/Interpolated%20Surface.jpg) <br>
+![](img/Interpolated%20Surface.jpg) <br>
+<!-- ![](https://github.com/AkshetPatel/Plotting-Bathymetric-Map-using-ranges-from-DVL-Using-ROS-MATLAB/blob/main/img/Interpolated%20Surface.jpg) <br> -->
 Surface Plot of Interpolated Coordinates <br>
 
-![](https://github.com/AkshetPatel/Plotting-Bathymetric-Map-using-ranges-from-DVL-Using-ROS-MATLAB/blob/main/img/Interpolated%20Mesh.jpg) <br>
+![](img/Interpolated%20Mesh.jpg) <br>
+<!-- ![](https://github.com/AkshetPatel/Plotting-Bathymetric-Map-using-ranges-from-DVL-Using-ROS-MATLAB/blob/main/img/Interpolated%20Mesh.jpg) <br> -->
 Mesh Plot of the interpolated coordinates <br>
 
 ### Conclusion
